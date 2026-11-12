@@ -1,5 +1,8 @@
 # Logic Synthesis with Yosys
 
+> ▶ **Run synthesis live** — try Yosys in your browser at [ChipXpert Lab → Synthesis](https://lab.chipxpert.in/synthesis), free — no install, no signup.
+
+
 A hands-on guide to turning Verilog RTL into a gate-level netlist with the
 open-source **Yosys** synthesiser — what each step does, how to read the result,
 and how it feeds the open RTL-to-GDSII flow.
